@@ -8,7 +8,7 @@ In the text box under
 "Optionally, supply the URL(s) for a wish list (pipe | separated)"
 Paste the following:
 
-https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt|
+https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt|https://raw.githubusercontent.com/RetroVector/destiny2Wishlists/main/Retros_Rolls.txt
 
 Or paste the following removing any of the undesired subgroups:
 
