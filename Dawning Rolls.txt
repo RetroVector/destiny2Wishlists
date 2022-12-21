@@ -157,11 +157,6 @@ dimwishlist:item=495940989&perks=3250034553,1561002382,1359896290,365154968,4008
 dimwishlist:item=495940989&perks=3250034553,1561002382,1359896290,365154968,4264904777
 
 
-// Lodbrok-C - Brok (god-pvp,mnk,controller)
-//notes: tags:god-pvp,mnk,controller
-dimwishlist:item=2328531378&perks=3661387068,679225683,1359896290,1015611457
-
-
 // Stay Frosty - PvE_1 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2812100428&perks=839105230,1885400500,588594999,1048183818,4264904777
